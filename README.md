@@ -5,13 +5,9 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Frederico Marcos de Paula Marques
+- Matrícula: 907680
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
-
-
-
-(*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
+![Print do Console](images/Console.png)
